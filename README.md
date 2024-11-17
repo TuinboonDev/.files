@@ -8,9 +8,9 @@ What even are dotfiles?!
 Yeah so tbh I have no idea I just did something and im not sure if this repo counts as dotfiles but I put some time in it and I feel like it looks nice so in my opinion it counts.
 
 # Screenshots
-<img src="https://raw.githubusercontent.com/TuinboonDev/.files/refs/heads/main/screenshot1.png">
-<img src="https://raw.githubusercontent.com/TuinboonDev/.files/refs/heads/main/screenshot2.png">
-<img src="https://raw.githubusercontent.com/TuinboonDev/.files/refs/heads/main/screenshot3.png">
+<img src="https://raw.githubusercontent.com/TuinboonDev/.files/refs/heads/main/images/screenshot1.png">
+<img src="https://raw.githubusercontent.com/TuinboonDev/.files/refs/heads/main/images/screenshot2.png">
+<img src="https://raw.githubusercontent.com/TuinboonDev/.files/refs/heads/main/images/screenshot3.png">
 
 # What is this?
 I guess this is my rice for arch linux (GNOME) but I think this works on Ubuntu or anything else that can run GNOME awell.
@@ -32,12 +32,12 @@ Open up the Dash2Dock Animated settings in the Extension Manager
 
 Step 2:
 Under the Dash2Dock general settings select the following items
-<img src="https://raw.githubusercontent.com/TuinboonDev/.files/refs/heads/main/dash2dock1.png">
-<img src="https://raw.githubusercontent.com/TuinboonDev/.files/refs/heads/main/dash2dock2.png">
+<img src="https://raw.githubusercontent.com/TuinboonDev/.files/refs/heads/main/images/dash2dock1.png">
+<img src="https://raw.githubusercontent.com/TuinboonDev/.files/refs/heads/main/images/dash2dock2.png">
 
 Step 3:
 Under the Dash2Dock style settings select the following theme:
-<img src="https://raw.githubusercontent.com/TuinboonDev/.files/refs/heads/main/dash2dock3.png">
+<img src="https://raw.githubusercontent.com/TuinboonDev/.files/refs/heads/main/images/dash2dock3.png">
 
 Loading the configuration files for openbar:
 
@@ -45,4 +45,4 @@ Step 1:
 Open up the openbar settings in the Extension Manager
 
 Step 2:
-<img src="https://raw.githubusercontent.com/TuinboonDev/.files/refs/heads/main/openbar.png">
+<img src="https://raw.githubusercontent.com/TuinboonDev/.files/refs/heads/main/images/openbar.png">
