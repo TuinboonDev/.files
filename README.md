@@ -7,8 +7,10 @@ What even are dotfiles?!
 
 Yeah so tbh I have no idea I just did something and im not sure if this repo counts as dotfiles but I put some time in it and I feel like it looks nice so in my opinion it counts.
 
-# Screenshot
-<img src="https://raw.githubusercontent.com/TuinboonDev/.files/refs/heads/main/demo.png">
+# Screenshots
+<img src="https://raw.githubusercontent.com/TuinboonDev/.files/refs/heads/main/screenshot1.png">
+<img src="https://raw.githubusercontent.com/TuinboonDev/.files/refs/heads/main/screenshot2.png">
+<img src="https://raw.githubusercontent.com/TuinboonDev/.files/refs/heads/main/screenshot3.png">
 
 # What is this?
 I guess this is my rice for arch linux (GNOME) but I think this works on Ubuntu or anything else that can run GNOME awell.
@@ -18,7 +20,7 @@ This repo has all the data, from theming to extensions and the wallpaper and one
 # Getting started
 Run the following command to download the installer script and run it.
 ``` 
-curl https://raw.githubusercontent.com/TuinboonDev/.files/refs/heads/main/setup.sh && chmod +x setup.sh && ./setup.sh
+curl -o ./setup.sh https://raw.githubusercontent.com/TuinboonDev/.files/refs/heads/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 After that please reboot your system or relog.
 
