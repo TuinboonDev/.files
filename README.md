@@ -8,7 +8,7 @@ What even are dotfiles?!
 Yeah so tbh I have no idea I just did something and im not sure if this repo counts as dotfiles but I put some time in it and I feel like it looks nice so in my opinion it counts.
 
 # Screenshot
-<img src="https://raw.githubusercontent.com/TuinboonDev/.files/refs/heads/main/wallpaper.png">
+<img src="https://raw.githubusercontent.com/TuinboonDev/.files/refs/heads/main/demo.png">
 
 # What is this?
 I guess this is my rice for arch linux (GNOME) but I think this works on Ubuntu or anything else that can run GNOME awell.
